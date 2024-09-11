@@ -1,0 +1,19 @@
+.box{
+    background-color: green;
+    width: 400px;
+    height: 200px;
+    border: 6px solid palevioletred;
+    border-radius: 10%;
+    color: white;
+}
+.text-center{
+    text-align: center;
+    /* color: orange; */
+}
+.text-white{
+    color: white;
+}
+
+li{
+    list-style: none;
+}
